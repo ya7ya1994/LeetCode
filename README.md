@@ -22,6 +22,7 @@ LeetCode Algorithms Solutions
 145. Binary Tree Postorder Traversal    
 146. LRU Cache
 509. Fibonacci Number
+1124. Longest Well-Performing Interval
 
 Amazon Assesment solution : PopularNFeatures
 
