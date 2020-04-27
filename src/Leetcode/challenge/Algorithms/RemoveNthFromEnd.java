@@ -24,6 +24,7 @@ public class RemoveNthFromEnd {
             head = head.next;
             size++;
         }
+        listNodes.add(null);
         if (size == n) {
             finalList = finalList.next;
             return finalList;
@@ -51,5 +52,32 @@ public class RemoveNthFromEnd {
         temp.next = head.next;
         head = null;
         return finalList;*/
+        /* Method 3
+        public ListNode removeNthFromEnd(ListNode head, int n) {
+    if(head == null)
+        return null;
+ 
+    ListNode fast = head;
+    ListNode slow = head;
+ 
+    for(int i=0; i<n; i++){
+        fast = fast.next;
+    }
+ 
+    //if remove the first node
+    if(fast == null){
+        head = head.next;
+        return head;
+    }
+ 
+    while(fast.next != null){
+        fast = fast.next;
+        slow = slow.next;
+    }
+ 
+    slow.next = slow.next.next;
+ 
+    return head;*/
+}
     }
 }
