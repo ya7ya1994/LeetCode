@@ -6,6 +6,8 @@ LeetCode Algorithms Solutions
 5.   Longest Palindromic Substring
 15.  3Sum    
 19.  Remove Nth Node From End of List
+21. Merge Two Sorted Lists
+36. Valid Sudoku
 49.	 Group Anagrams
 56.	 Merge Intervals
 94.  Binary Tree Inorder Traversal    
