@@ -11,6 +11,7 @@ LeetCode Algorithms Solutions
 36. Valid Sudoku
 49.	 Group Anagrams
 56.	 Merge Intervals
+64. Minimum Path Sum
 94.  Binary Tree Inorder Traversal    
 101. Symmetric Tree
 102. Binary Tree Level Order Traversal
@@ -24,6 +25,7 @@ LeetCode Algorithms Solutions
 144. Binary Tree Preorder Traversal
 145. Binary Tree Postorder Traversal    
 146. LRU Cache
+357. Count Numbers with Unique Digits
 509. Fibonacci Number
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
