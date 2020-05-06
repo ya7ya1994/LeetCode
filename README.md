@@ -4,6 +4,7 @@ LeetCode Algorithms Solutions
 2.   Add Two Numbers 
 3.	 Longest Substring Without Repeating Characters
 5.   Longest Palindromic Substring
+6.   ZigZag Conversion
 15.  3Sum    
 19.  Remove Nth Node From End of List
 21. Merge Two Sorted Lists
