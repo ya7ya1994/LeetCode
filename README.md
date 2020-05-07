@@ -10,6 +10,7 @@ LeetCode Algorithms Solutions
 21. Merge Two Sorted Lists
 23. Merge k Sorted Lists
 36. Valid Sudoku
+46. Permutations
 49.	 Group Anagrams
 56.	 Merge Intervals
 64. Minimum Path Sum
