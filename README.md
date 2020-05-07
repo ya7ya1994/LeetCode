@@ -10,6 +10,7 @@ LeetCode Algorithms Solutions
 21. Merge Two Sorted Lists
 23. Merge k Sorted Lists
 36. Valid Sudoku
+46. Permutations
 49.	 Group Anagrams
 56.	 Merge Intervals
 64. Minimum Path Sum
@@ -28,6 +29,7 @@ LeetCode Algorithms Solutions
 146. LRU Cache
 357. Count Numbers with Unique Digits
 509. Fibonacci Number
+606. Construct String from Binary Tree
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
 
