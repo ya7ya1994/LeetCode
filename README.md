@@ -13,6 +13,8 @@ LeetCode Algorithms Solutions
 46. Permutations
 49.	 Group Anagrams
 56.	 Merge Intervals
+62. Unique Paths
+63. Unique Paths II
 64. Minimum Path Sum
 94.  Binary Tree Inorder Traversal    
 101. Symmetric Tree
