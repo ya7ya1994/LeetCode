@@ -16,7 +16,8 @@ LeetCode Algorithms Solutions
 62. Unique Paths
 63. Unique Paths II
 64. Minimum Path Sum
-94.  Binary Tree Inorder Traversal    
+94.  Binary Tree Inorder Traversal
+98.  Validate Binary Search Tree
 101. Symmetric Tree
 102. Binary Tree Level Order Traversal
 104. Maximum Depth of Binary Tree
@@ -30,6 +31,7 @@ LeetCode Algorithms Solutions
 145. Binary Tree Postorder Traversal    
 146. LRU Cache
 357. Count Numbers with Unique Digits
+416. Partition Equal Subset Sum
 509. Fibonacci Number
 606. Construct String from Binary Tree
 1021. Remove Outermost Parentheses
