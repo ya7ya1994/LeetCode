@@ -20,6 +20,7 @@ LeetCode Algorithms Solutions
 98.  Validate Binary Search Tree
 101. Symmetric Tree
 102. Binary Tree Level Order Traversal
+103. Binary Tree Zigzag Level Order Traversal
 104. Maximum Depth of Binary Tree
 105. Construct Binary Tree from Preorder and Inorder Traversal
 106. Construct Binary Tree from Inorder and Postorder Traversal    
