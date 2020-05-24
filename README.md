@@ -36,6 +36,7 @@ LeetCode Algorithms Solutions
 606. Construct String from Binary Tree
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
+1267. Count Servers that Communicate
 
 Amazon Assesment solution : PopularNFeatures
 
