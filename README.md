@@ -39,6 +39,6 @@ LeetCode Algorithms Solutions
 1124. Longest Well-Performing Interval
 1267. Count Servers that Communicate
 
-Amazon Assesment solution : PopularNFeatures
-Facebook Assesment solution : DictionaryFb
+. Amazon Assesment solution : PopularNFeatures
+. Facebook Assesment solution : DictionaryFb
 
