@@ -35,6 +35,7 @@ LeetCode Algorithms Solutions
 416. Partition Equal Subset Sum
 509. Fibonacci Number
 606. Construct String from Binary Tree
+767. Reorganize String
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
 1267. Count Servers that Communicate
