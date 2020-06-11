@@ -36,6 +36,7 @@ LeetCode Algorithms Solutions
 509. Fibonacci Number
 606. Construct String from Binary Tree
 767. Reorganize String
+825. Friends Of Appropriate Ages
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
 1267. Count Servers that Communicate
