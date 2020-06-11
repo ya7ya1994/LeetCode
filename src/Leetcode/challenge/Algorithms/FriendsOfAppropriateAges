@@ -1,0 +1,49 @@
+class Solution {
+    public int numFriendRequests(int[] ages) {
+        int[] ageBuckets = new int[120 + 1];
+        for(int i : ages) {
+            ageBuckets[i]++;
+        }
+
+        int result = 0;
+        for(int age = 1; age <= 120; age++) {
+            if (ageBuckets[age] == 0) {
+                continue;
+            }
+
+            int minAge = age / 2 + 7 + 1;
+            int countAge = ageBuckets[age];
+            for(int i = minAge; i <= age; i++ ) {
+                if(i == age) {
+                    result += countAge * (countAge - 1);
+                }
+                else {
+                    result += countAge * ageBuckets[i];
+                }
+            }
+        }
+        
+        return result;
+    }
+}
+
+
+// Map<Integer,Integer> ageBuckets = new HashMap<>();
+//         for(int i : ages) {
+//             ageBuckets.merge(i,1,(a,b)->a+b);
+//         }
+//         int result = 0;
+//         for(Integer key : ageBuckets.keySet()) {
+//             int minAge = key / 2 + 7 + 1;
+//             int countAge = ageBuckets.get(key);
+//             for(int i = minAge; i <= key; i++ ) {
+//                 if(i == key) {
+//                     result += countAge * (countAge - 1);
+//                 }
+//                 else {
+//                     result += countAge * ageBuckets.getOrDefault(i,0);
+//                 }
+//             }
+//         }
+        
+//         return result;
