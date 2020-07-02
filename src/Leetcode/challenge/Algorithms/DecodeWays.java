@@ -5,14 +5,14 @@ class Solution {
       }
         
         
-        //int size = s.length();
-        int[] subPrb = new int[s.length()+1];
+        int size = s.length();
+        int[] subPrb = new int[size+1];
         
         subPrb[0] = 1;
         subPrb[1] = s.charAt(0) == '0' ? 0 : 1;
         
         
-        for (int i = 2; i <= s.length(); i++) {
+        for (int i = 2; i <= size; i++) {
             int first = Integer.valueOf(s.substring(i-1,i));
             int second = Integer.valueOf(s.substring(i-2,i));
             
@@ -24,7 +24,7 @@ class Solution {
             }
         }
         
-        return subPrb[s.length()];
+        return subPrb[size];
     }
     
     
