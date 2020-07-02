@@ -27,6 +27,7 @@ LeetCode Algorithms Solutions
 112. Path Sum
 116. Populating Next Right Pointers in Each Node
 117. Populating Next Right Pointers in Each Node II
+119. Pascal's Triangle II
 137. Single Number II
 144. Binary Tree Preorder Traversal
 145. Binary Tree Postorder Traversal    
