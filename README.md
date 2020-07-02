@@ -37,6 +37,7 @@ LeetCode Algorithms Solutions
 416. Partition Equal Subset Sum
 509. Fibonacci Number
 606. Construct String from Binary Tree
+662. Maximum Width of Binary Tree
 766. Toeplitz Matrix
 767. Reorganize String
 825. Friends Of Appropriate Ages
