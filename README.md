@@ -40,6 +40,7 @@ LeetCode Algorithms Solutions
 767. Reorganize String
 825. Friends Of Appropriate Ages
 967. Numbers With Same Consecutive Differences
+1109. Corporate Flight Bookings
 1115. Print FooBar Alternately
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
