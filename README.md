@@ -16,6 +16,7 @@ LeetCode Algorithms Solutions
 62. Unique Paths
 63. Unique Paths II
 64. Minimum Path Sum
+91. Decode Ways
 94.  Binary Tree Inorder Traversal
 98.  Validate Binary Search Tree
 101. Symmetric Tree
