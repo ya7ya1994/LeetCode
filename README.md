@@ -47,6 +47,7 @@ LeetCode Algorithms Solutions
 1115. Print FooBar Alternately
 1021. Remove Outermost Parentheses
 1124. Longest Well-Performing Interval
+1146. Snapshot Array
 1267. Count Servers that Communicate
 1456. Maximum Number of Vowels in a Substring of Given Length
 
