@@ -12,6 +12,7 @@ LeetCode Algorithms Solutions
 36. Valid Sudoku
 46. Permutations
 49.	 Group Anagrams
+54. Spiral Matrix
 56.	 Merge Intervals
 62. Unique Paths
 63. Unique Paths II
