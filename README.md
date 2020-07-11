@@ -38,6 +38,7 @@ LeetCode Algorithms Solutions
 509. Fibonacci Number
 606. Construct String from Binary Tree
 662. Maximum Width of Binary Tree
+676. Implement Magic Dictionary
 766. Toeplitz Matrix
 767. Reorganize String
 825. Friends Of Appropriate Ages
