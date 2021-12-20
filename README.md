@@ -32,8 +32,9 @@ LeetCode Algorithms Solutions
 119. Pascal's Triangle II
 137. Single Number II
 144. Binary Tree Preorder Traversal
-145. Binary Tree Postorder Traversal    
-146. LRU Cache
+145. Binary Tree Postorder Traversal
+221. Maximal Squar    
+223. LRU Cache
 357. Count Numbers with Unique Digits
 416. Partition Equal Subset Sum
 509. Fibonacci Number
